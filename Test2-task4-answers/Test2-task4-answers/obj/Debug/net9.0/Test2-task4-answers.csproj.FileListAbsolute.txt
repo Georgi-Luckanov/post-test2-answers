@@ -1,0 +1,15 @@
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\bin\Debug\net9.0\Test2-task4-answers.exe
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\bin\Debug\net9.0\Test2-task4-answers.deps.json
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\bin\Debug\net9.0\Test2-task4-answers.runtimeconfig.json
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\bin\Debug\net9.0\Test2-task4-answers.dll
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\bin\Debug\net9.0\Test2-task4-answers.pdb
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.sourcelink.json
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.dll
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\refint\Test2-task4-answers.dll
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.pdb
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\Test2-task4-answers.genruntimeconfig.cache
+C:\Users\ludmi\OneDrive\post test solvong\post-test2-answers\Test2-task4-answers\Test2-task4-answers\obj\Debug\net9.0\ref\Test2-task4-answers.dll
